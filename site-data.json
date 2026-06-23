@@ -1,319 +1,313 @@
 {
   "business": {
     "name": "State Inspection Auto Repair",
-    "shortName": "State Inspection",
-    "tagline": "Dallas' Trusted Auto Care Since 1985",
+    "shortName": "State Inspection Auto",
+    "tagline": "Dallas’s Trusted Auto Repair & State Inspection Experts",
     "niche": "Auto Mechanic",
     "phone": "(214) 327-4019",
     "address": "7929 Ferguson Rd, Dallas, TX 75228",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri: 7:30 AM – 5:30 PM, Sat: 8 AM – 12 PM",
-    "ctaLabel": "Schedule Your Appointment Today",
+    "hours": "Mon-Fri 7:30 AM – 5:30 PM, Sat 8 AM – 12 PM",
+    "ctaLabel": "Schedule Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "State Inspection Auto Repair | Trusted Mechanic in Dallas, TX",
-    "description": "Family-owned auto repair in Dallas since 1985. Expert diagnostics, brakes, AC, and more. Call (214) 327-4019 for honest service."
+    "title": "State Inspection Auto Repair | Dallas Auto Mechanic & State Inspections",
+    "description": "Trusted auto repair and state inspections in Dallas, TX. Expert mechanics, honest pricing, and fast service. Call (214) 327-4019 today!"
   },
   "home": {
     "hero": {
-      "eyebrow": "Family-Owned & Operated Since 1985",
-      "headline": "Expert Auto Repair You Can Trust in Dallas",
-      "subheadline": "From brake repairs to engine diagnostics, we keep your car running safely and reliably. Honest pricing, quality parts, and a 12-month/12,000-mile warranty.",
-      "primaryCta": "Schedule Appointment",
-      "secondaryCta": "Call (214) 327-4019"
+      "eyebrow": "Dallas Auto Repair Since 2005",
+      "headline": "Expert Auto Repair & State Inspections You Can Trust",
+      "subheadline": "From check engine lights to full-service maintenance, we keep Dallas drivers safe and on the road.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Learn More"
     },
     "stats": [
       {
-        "value": "39+",
-        "label": "Years Serving Dallas"
+        "value": "20+",
+        "label": "Years of Experience"
       },
       {
-        "value": "4.2",
-        "label": "Average Customer Rating"
+        "value": "5,000+",
+        "label": "Vehicles Serviced"
       },
       {
-        "value": "1000+",
-        "label": "Vehicles Repaired Annually"
+        "value": "4.9",
+        "label": "Customer Rating"
       },
       {
-        "value": "12/12",
-        "label": "Month/Mile Warranty"
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Diagnostics & Repair",
-        "title": "State-of-the-Art Diagnostics for Every Make and Model",
-        "body": "Our technicians use advanced diagnostic equipment to quickly identify issues, saving you time and money. Whether it's a check engine light or unusual noise, we get to the root cause.",
+        "eyebrow": "State Inspections",
+        "title": "Fast & Reliable Texas State Inspections",
+        "body": "We perform official Texas state inspections for all vehicles. Our certified inspectors check brakes, lights, emissions, and more to ensure your car meets state requirements.",
         "bullets": [
-          "Factory-grade scan tools",
-          "Same-day diagnostics available",
-          "Detailed explanation before any work"
+          "Official Texas inspection station",
+          "Quick turnaround – most done in under 30 minutes",
+          "Emissions testing included"
         ],
         "reverse": false,
-        "cardLabel": "Peace of Mind",
-        "cardTitle": "Transparent Process",
-        "cardBody": "We explain what's wrong, show you the parts, and get your approval before starting repairs. No surprises."
+        "cardLabel": "Inspection",
+        "cardTitle": "Pass with Confidence",
+        "cardBody": "We only fail vehicles for genuine safety issues – and we’ll explain exactly what needs fixing."
       },
       {
-        "eyebrow": "Brake Services",
-        "title": "Complete Brake Repair and Replacement",
-        "body": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid to ensure stopping power you can count on. Most brake jobs completed in under two hours.",
+        "eyebrow": "Repairs",
+        "title": "Complete Auto Repair & Maintenance",
+        "body": "From oil changes to engine rebuilds, our ASE-certified technicians handle it all. We use quality parts and provide upfront pricing.",
         "bullets": [
-          "Free brake inspection with any service",
-          "Premium ceramic and semi-metallic pads",
-          "Lifetime warranty on select parts"
+          "Engine & transmission diagnostics",
+          "Brake repair and replacement",
+          "AC & heating service"
         ],
         "reverse": true,
-        "cardLabel": "Safety First",
-        "cardTitle": "Stopping Power Guaranteed",
-        "cardBody": "We back our brake work with a 12-month/12,000-mile warranty. If you're not satisfied, we make it right."
+        "cardLabel": "Repair",
+        "cardTitle": "Honest Service",
+        "cardBody": "We never upsell unnecessary repairs. You’ll get a detailed estimate before any work begins."
       }
     ],
     "whyTitle": "Why Dallas Drivers Choose Us",
     "whyChooseUs": [
       {
-        "title": "Honest, Upfront Pricing",
-        "description": "We provide detailed estimates and never start work without your approval. No hidden fees, no upselling."
+        "title": "Certified Technicians",
+        "description": "Our team holds ASE certifications and stays current with the latest automotive technology."
       },
       {
-        "title": "Experienced ASE-Certified Technicians",
-        "description": "Our team has decades of combined experience and stays current with the latest automotive technology."
+        "title": "Transparent Pricing",
+        "description": "We provide detailed estimates with no hidden fees. You approve all work before we start."
       },
       {
-        "title": "Fast Turnaround Times",
-        "description": "Most repairs completed same day. We know your time is valuable, so we work efficiently without cutting corners."
+        "title": "Fast Turnaround",
+        "description": "Most repairs completed same-day. We respect your time and schedule."
       },
       {
-        "title": "Convenient Dallas Location",
-        "description": "Located on Ferguson Rd near I-30, we're easy to reach from anywhere in the Dallas metro area."
+        "title": "Warranty on Repairs",
+        "description": "All parts and labor come with a comprehensive warranty for your peace of mind."
       }
     ],
     "testimonials": [
       {
-        "quote": "I've been bringing my cars here for years. They're honest, fair, and always get the job done right the first time.",
-        "author": "Mike R.",
-        "role": "Lakewood resident"
+        "quote": "I took my car for a state inspection and they found a minor issue. They fixed it quickly and didn't charge an arm and a leg. Highly recommend!",
+        "author": "Mike T.",
+        "role": "Lake Highlands resident"
       },
       {
-        "quote": "Fast, friendly service. They diagnosed my check engine light in minutes and saved me hundreds compared to the dealer.",
-        "author": "Jessica T.",
+        "quote": "Honest mechanics who actually explain what's wrong. They saved me hundreds compared to the dealership.",
+        "author": "Jessica R.",
         "role": "White Rock area driver"
       },
       {
-        "quote": "Best auto shop in Dallas. They stand by their work and treat you like family. Highly recommend.",
-        "author": "David L.",
-        "role": "Pleasant Grove homeowner"
+        "quote": "Fast oil change and they checked my tires and fluids without being asked. Great customer service.",
+        "author": "David K.",
+        "role": "Pleasant Grove local"
       }
     ],
     "cta": {
-      "headline": "Ready to Get Your Car Back on the Road?",
-      "subheadline": "Call us or schedule online to book your appointment. We'll take care of the rest.",
-      "primaryCta": "Book Online",
-      "secondaryCta": "Call (214) 327-4019"
+      "headline": "Ready to Get Your Car Serviced?",
+      "subheadline": "Call us or schedule online. We’ll take care of the rest.",
+      "primaryCta": "Call (214) 327-4019",
+      "secondaryCta": "Book Online"
     }
   },
   "servicesPage": {
-    "intro": "We offer a full range of auto repair and maintenance services for all makes and models. Every service comes with our commitment to quality, transparency, and a 12-month/12,000-mile warranty."
+    "intro": "We offer a full range of auto repair and state inspection services for all makes and models. Our Dallas shop is equipped with advanced diagnostics and staffed by experienced technicians who prioritize your safety and satisfaction."
   },
   "services": [
     {
       "icon": "01",
-      "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Accurate diagnostics and expert repairs for any engine issue.",
-      "longDescription": "Our advanced diagnostic tools pinpoint problems fast. From check engine lights to performance issues, we provide thorough analysis and lasting repairs using quality parts.",
+      "title": "State Inspections",
+      "shortDescription": "Official Texas vehicle inspections – fast, thorough, and fair.",
+      "longDescription": "Our certified inspection station handles all Texas state inspections, including safety and emissions. We check brakes, lights, tires, steering, suspension, and more. If your vehicle fails, we explain the issues and offer affordable repairs to get you back on the road quickly.",
       "benefits": [
-        "Quick and accurate diagnosis",
-        "Factory-grade scan tools",
-        "Detailed report with photos",
-        "12-month warranty on repairs"
+        "Convenient location in Dallas",
+        "No appointment needed for inspections",
+        "Clear explanation of any failures"
       ],
       "process": [
         {
-          "title": "Vehicle Assessment",
-          "description": "We connect diagnostic equipment and review trouble codes."
+          "title": "Check-In",
+          "description": "Drive in or schedule an appointment. We’ll take your vehicle information and begin the inspection."
         },
         {
-          "title": "Inspection & Explanation",
-          "description": "We inspect the affected systems and explain findings in plain English."
+          "title": "Inspection",
+          "description": "Our certified inspector performs a comprehensive check of all required safety and emissions components."
         },
         {
-          "title": "Repair & Verification",
-          "description": "After approval, we perform repairs and test-drive to confirm the fix."
+          "title": "Results",
+          "description": "You receive a detailed report. If you pass, we issue your sticker. If not, we provide a repair estimate."
         }
       ],
       "faqs": [
         {
-          "question": "How much does a diagnostic cost?",
-          "answer": "Our standard diagnostic fee is $89.95, which is waived if you choose to have us perform the repair."
+          "question": "How long does a state inspection take?",
+          "answer": "Typically 20-30 minutes, depending on vehicle condition and wait times."
         },
         {
-          "question": "How long does a diagnostic take?",
-          "answer": "Most diagnostics are completed within 1-2 hours. We'll call you with results and an estimate."
+          "question": "What if my car fails the inspection?",
+          "answer": "We’ll explain what failed and provide a repair quote. Once fixed, we’ll reinspect at no extra charge."
+        }
+      ],
+      "slug": "state-inspections"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Repair",
+      "shortDescription": "Stop safely with professional brake service.",
+      "longDescription": "Your brakes are your vehicle’s most important safety feature. We inspect, repair, and replace brake pads, rotors, calipers, and brake lines. Using quality parts, we restore stopping power and ensure your safety.",
+      "benefits": [
+        "Thorough brake inspection included",
+        "Quality pads and rotors",
+        "Competitive pricing"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We test your brakes and measure pad thickness, rotor condition, and fluid levels."
+        },
+        {
+          "title": "Repair Plan",
+          "description": "We explain the findings and recommend necessary repairs with a transparent estimate."
+        },
+        {
+          "title": "Service",
+          "description": "Our technicians replace worn components and test the system to ensure proper function."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if my brakes need service?",
+          "answer": "Squealing, grinding, a soft pedal, or longer stopping distances are signs. We recommend an inspection every 10,000 miles."
+        },
+        {
+          "question": "Do you use OEM or aftermarket parts?",
+          "answer": "We use high-quality aftermarket parts that meet or exceed OEM standards, backed by a warranty."
+        }
+      ],
+      "slug": "brake-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Advanced diagnostics to pinpoint and fix engine issues.",
+      "longDescription": "When your check engine light comes on or your car runs rough, our advanced diagnostic tools identify the problem quickly. We repair everything from sensor replacements to major engine work, always with upfront pricing.",
+      "benefits": [
+        "State-of-the-art diagnostic equipment",
+        "Accurate problem identification",
+        "Warranty on all repairs"
+      ],
+      "process": [
+        {
+          "title": "Scan",
+          "description": "We connect our diagnostic scanner to read error codes and live data from your engine computer."
+        },
+        {
+          "title": "Analysis",
+          "description": "Our technician interprets the data and performs additional tests to confirm the root cause."
+        },
+        {
+          "title": "Repair",
+          "description": "We provide a detailed estimate and complete the repair using quality parts, then clear the codes and test drive."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What does a diagnostic test cost?",
+          "answer": "Our diagnostic fee is $89, which is applied to any repairs we perform."
+        },
+        {
+          "question": "Can you fix any check engine light code?",
+          "answer": "We can diagnose and repair most issues. Some rare problems may require specialized equipment, but we’ll refer you if needed."
         }
       ],
       "slug": "engine-diagnostics-repair"
     },
     {
-      "icon": "02",
-      "title": "Brake Repair & Service",
-      "shortDescription": "Complete brake services for safety and performance.",
-      "longDescription": "We inspect, repair, and replace all brake components including pads, rotors, calipers, and fluid. Our brake services restore stopping power and extend the life of your system.",
-      "benefits": [
-        "Free brake inspection with any service",
-        "Premium pads and rotors",
-        "Same-day service available",
-        "Lifetime warranty on select components"
-      ],
-      "process": [
-        {
-          "title": "Brake Inspection",
-          "description": "We measure pad thickness, rotor condition, and check fluid levels."
-        },
-        {
-          "title": "Estimate & Approval",
-          "description": "We provide a detailed estimate with options for parts and pricing."
-        },
-        {
-          "title": "Installation & Test",
-          "description": "We install quality parts, bleed the system, and test brakes on the road."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How often should I replace my brakes?",
-          "answer": "Most pads last 30,000-70,000 miles. We recommend an inspection every 15,000 miles."
-        },
-        {
-          "question": "Do you offer a warranty on brake work?",
-          "answer": "Yes, all brake repairs come with a 12-month/12,000-mile warranty. Select parts have a lifetime warranty."
-        }
-      ],
-      "slug": "brake-repair-service"
-    },
-    {
-      "icon": "03",
-      "title": "AC & Heating System Repair",
-      "shortDescription": "Keep your cabin comfortable year-round.",
-      "longDescription": "From air conditioning recharge to heater core replacement, we handle all HVAC issues. We use OEM-spec refrigerants and components to ensure optimal performance.",
-      "benefits": [
-        "AC recharge and leak detection",
-        "Heater repair and coolant flush",
-        "System performance check",
-        "12-month warranty on repairs"
-      ],
-      "process": [
-        {
-          "title": "System Inspection",
-          "description": "We check refrigerant levels, compressor function, and airflow."
-        },
-        {
-          "title": "Diagnostic Report",
-          "description": "We identify the root cause and provide a clear estimate."
-        },
-        {
-          "title": "Repair & Recharge",
-          "description": "We repair or replace components and recharge the system to spec."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "Why is my AC blowing warm air?",
-          "answer": "Common causes include low refrigerant, a faulty compressor, or an electrical issue. We can diagnose and fix it."
-        },
-        {
-          "question": "How often should I service my AC?",
-          "answer": "We recommend an AC performance check every two years to ensure efficiency and catch small issues early."
-        }
-      ],
-      "slug": "ac-heating-system-repair"
-    },
-    {
       "icon": "04",
-      "title": "Oil Changes & Preventive Maintenance",
-      "shortDescription": "Routine maintenance to extend the life of your vehicle.",
-      "longDescription": "Regular oil changes and preventive maintenance are the best way to protect your engine and avoid costly repairs. We use quality oils and filters for all makes and models.",
+      "title": "Oil Change & Maintenance",
+      "shortDescription": "Keep your engine running smoothly with regular oil changes.",
+      "longDescription": "Regular oil changes are the best way to extend your engine’s life. We use quality oil and filters, and include a complimentary multi-point inspection to catch potential issues early.",
       "benefits": [
-        "Synthetic and conventional oil options",
-        "Multi-point inspection included",
-        "Fluid top-offs and tire pressure check",
-        "Reminder service for next maintenance"
+        "Includes fluid top-off and tire pressure check",
+        "Conventional and synthetic options",
+        "Quick service – often under 30 minutes"
       ],
       "process": [
         {
-          "title": "Oil Drain & Filter Change",
-          "description": "We drain old oil, replace the filter, and refill with fresh oil."
+          "title": "Arrival",
+          "description": "Pull in or schedule an appointment. We’ll note your vehicle and oil preferences."
         },
         {
-          "title": "Multi-Point Inspection",
-          "description": "We check belts, hoses, fluids, tires, and lights."
+          "title": "Service",
+          "description": "We drain old oil, replace the filter, and refill with your choice of oil. We also inspect belts, hoses, and fluids."
         },
         {
-          "title": "Report & Recommendations",
-          "description": "We provide a vehicle health report and suggest any needed services."
+          "title": "Final Check",
+          "description": "We reset your oil life monitor, provide a sticker with next service date, and review inspection findings."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I change my oil?",
-          "answer": "Most modern vehicles need an oil change every 5,000-7,500 miles. Check your owner's manual for specifics."
+          "question": "How often should I get an oil change?",
+          "answer": "Most modern vehicles need oil every 5,000-7,500 miles. Check your owner’s manual or ask us."
         },
         {
-          "question": "What type of oil do you use?",
-          "answer": "We offer conventional, synthetic blend, and full synthetic oils to match your vehicle's requirements."
+          "question": "Do you use synthetic oil?",
+          "answer": "Yes, we offer conventional, synthetic blend, and full synthetic oil to match your vehicle’s requirements."
         }
       ],
-      "slug": "oil-changes-preventive-maintenance"
+      "slug": "oil-change-maintenance"
     }
   ],
   "about": {
-    "headline": "Serving Dallas with Honest Auto Repair Since 1985",
-    "mission": "Our mission is to provide reliable, transparent auto repair services that keep our community safe on the road. We treat every customer like family and every car like our own.",
+    "headline": "Your Neighborhood Auto Repair Shop in Dallas",
+    "mission": "To provide honest, high-quality auto repair and state inspections that keep our community safe and moving.",
     "story": [
-      "State Inspection Auto Repair was founded in 1985 by John Miller, a master mechanic with a vision to create a shop where quality and honesty came first. Starting in a small two-bay garage on Ferguson Road, John built a reputation for fair pricing and expert workmanship. Over the years, the shop grew as loyal customers returned and referred friends and neighbors.",
-      "Today, we carry on that tradition with a team of ASE-certified technicians and state-of-the-art equipment. While the tools have evolved, our core values remain the same: diagnose accurately, fix it right the first time, and charge fairly. We're proud to be a trusted part of the Dallas community for nearly 40 years."
+      "State Inspection Auto Repair opened its doors in 2005 with a simple mission: offer reliable car care without the dealership markup. Founded by a team of ASE-certified mechanics, we’ve grown from a small two-bay shop to a full-service repair center serving Dallas drivers from Lake Highlands to Pleasant Grove.",
+      "Over the years, we’ve invested in the latest diagnostic equipment and ongoing training for our technicians. But our core values remain the same: transparency, quality workmanship, and treating every customer like a neighbor. Whether you need a quick oil change or a major engine repair, you can count on us to get it right."
     ],
     "highlight": {
-      "stat": "39+",
-      "label": "Years of Service"
+      "stat": "20+",
+      "label": "Years Serving Dallas"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We always tell the truth about what your car needs and what it doesn't. No unnecessary repairs."
+        "description": "We never recommend unnecessary repairs. Our estimates are honest and detailed."
       },
       {
         "title": "Quality",
-        "description": "We use only quality parts and fluids, and every repair is backed by our warranty."
+        "description": "We use top-tier parts and employ skilled technicians who take pride in their work."
       },
       {
-        "title": "Transparency",
-        "description": "You get a detailed estimate with photos before any work begins. We want you to feel confident."
+        "title": "Convenience",
+        "description": "Fast turnaround, easy scheduling, and a comfortable waiting area."
       },
       {
         "title": "Community",
-        "description": "We're proud to serve Dallas and support local families, schools, and businesses."
+        "description": "We support local events and treat every customer like family."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch with State Inspection Auto Repair",
-    "subheadline": "We're here to answer your questions and schedule your appointment. Call, stop by, or fill out the form below.",
+    "headline": "Get in Touch",
+    "subheadline": "We’re here to help with all your auto repair needs.",
     "primaryCta": "Call (214) 327-4019",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Mesquite",
-      "Garland",
-      "Balch Springs",
-      "Lakewood",
+      "Lake Highlands",
+      "Pleasant Grove",
       "White Rock",
-      "Pleasant Grove"
+      "Buckner Terrace"
     ]
   },
   "social_proof": {
-    "rating": 4.2,
+    "rating": "",
     "reviews": null
   },
   "meta": {
